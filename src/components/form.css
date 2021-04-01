@@ -1,0 +1,14 @@
+.form {
+  text-align: center;
+  width: 900px;
+  margin: auto;
+}
+
+.formTitle {
+  font-size: larger;
+}
+
+.paper {
+  padding: 16px;
+  border: 2px solid black;
+}
